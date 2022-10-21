@@ -20,7 +20,7 @@
 ### *About me:*
 - Ambitious Full-Stack Developer seeking opportunities to enhance my knowledge, share and develop my skills.
 - Took an intensive 16 weeks coding bootcamp with ***Coding Dojo*** at ***AXSOS Academy GmbH*** which gave me the required soft and tech. skills through: </br >
-+1200 coding hrs | +100 hrs of algorithms and data structures | +100 hrs of group activities | +410 lab/office hrs, and | +250 hrs of 3 complete project
++1200 coding hrs | +100 hrs of algorithms and data structures </br > +100 hrs of group activities | +410 lab/office hrs, and | +250 hrs of 3 complete project
 - Got a previous Building Engineering background which impowered my critical thinking, problem solving and team working skills.
 - making the most of my free time learning and solving problems on *leetcode* & *GeeksforGeeks*.
 
