@@ -17,7 +17,7 @@
 
 ---
 
-##About me:
+## About me:
 Ambitious Full-Stack Developer seeking opportunities to enhance my knowledge, share and develop my skills.
 Got a previous Building Engineering background which impowered my critical thinking, problem solving and team working skills,
 
