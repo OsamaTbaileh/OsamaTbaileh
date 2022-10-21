@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy-downsized.gif" width="auto"/>
+  <img src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.mp4" width="auto"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/osamatbaileh/">
