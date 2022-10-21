@@ -23,6 +23,6 @@
 +1200 coding hrs </br > +100 hrs of algorithms and data structures </br > +100 hrs of group activities </br > +410 lab/office hrs, and </br > +250 hrs of 3 complete project
 - Got a previous Building Engineering background which impowered my critical thinking, problem solving and team working skills.
 - making the most of my free time learning and solving problems on *leetcode* & *GeeksforGeeks*.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Osama Tbaileh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/osamatbaileh/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakba-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 
