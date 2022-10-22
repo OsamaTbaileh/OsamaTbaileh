@@ -1,12 +1,8 @@
 [![](https://raw.githubusercontent.com/OsamaTbaileh/OsamaTbaileh/master/profile_header.gif)](https://www.adamalston.com/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=2700&color=33B2EA&center=true&vCenter=true&width=435&lines=WELCOME+to+my+profile;I'm+Osama+Tbaileh;Full-Stack+Software+Developer;With+Building+Engineering+Background;Ambitious%2C+Team+Player+%26+Dedicated+;You+Can+Contact+Me+By+The+Links+Down+Below)](https://git.io/typing-svg)
-
-
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" width="auto"/>
-</div> -->
-
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=2700&color=33B2EA&width=435&lines=WELCOME+to+my+profile;I'm+Osama+Tbaileh;Full-Stack+Software+Developer;With+Building+Engineering+Background;Ambitious%2C+Team+Player+%26+Dedicated+;Contact+Me+By+The+Links+Down+Below)](https://git.io/typing-svg)
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/osamatbaileh/">
