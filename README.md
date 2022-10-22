@@ -17,7 +17,7 @@
 
 ---
 
-### *About me:*
+## *About me:*
 - Ambitious Full-Stack Developer seeking opportunities to enhance my knowledge, share and develop my skills.
 - Took an intensive 16 weeks coding bootcamp with ***Coding Dojo*** and ***AXSOS Academy GmbH*** which gave me the required soft and tech. skills through: </br >
 +1200 coding hrs </br > +100 hrs of algorithms and data structures </br > +100 hrs of group activities </br > +410 lab/office hrs, and </br > +250 hrs of 3 complete project
@@ -28,7 +28,7 @@
 --- 
 
 
-### *Languages & Tools:*
+## *Languages & Tools:*
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
