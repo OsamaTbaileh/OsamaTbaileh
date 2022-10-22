@@ -63,7 +63,7 @@
 
 ### *My Stats:*
 
-<img src="https://komarev.com/ghpvc/?username=OsamaTbaileh&style=flat-square&color=blue" alt=""/>
+
 
 <div>
   
