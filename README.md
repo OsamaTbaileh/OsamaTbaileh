@@ -58,7 +58,7 @@
 
 ### *My Stats:*
 
-<div>
+<div align="center">
   
 ![OsamaTbaileh github stats](https://github-readme-stats.vercel.app/api?username=OsamaTbaileh&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
