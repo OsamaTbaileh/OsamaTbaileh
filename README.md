@@ -63,6 +63,8 @@
 
 ### *My Stats:*
 
+<img src="https://komarev.com/ghpvc/?username=OsamaTbaileh&style=flat-square&color=blue" alt=""/>
+
 <div>
   
 ![OsamaTbaileh github stats](https://github-readme-stats.vercel.app/api?username=OsamaTbaileh&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
