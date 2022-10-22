@@ -1,6 +1,9 @@
-<div id="header" align="center">
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
+
+
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" width="auto"/>
-</div>
+</div> -->
 
 
 <div id="badges" align="center">
