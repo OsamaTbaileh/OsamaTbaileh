@@ -13,6 +13,9 @@
   <a href="https://www.facebook.com/osama.tobaileh">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+  <a href="mailto:osama.tb02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
 
 ---
