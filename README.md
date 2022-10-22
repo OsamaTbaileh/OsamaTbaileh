@@ -35,7 +35,6 @@
 
 --- 
 
-
 ### *Languages & Tools:*
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -55,10 +54,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
 
+--- 
 
+### *My Stats:*
+
+<div>
 ![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=OsamaTbaileh&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=OsamaTbaileh&theme=radical&include_all_commits=true&count_private=true)
-
+</div>
 
 
