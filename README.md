@@ -64,7 +64,7 @@
 
 ![OsamaTbaileh github streak](https://github-readme-streak-stats.herokuapp.com/?user=OsamaTbaileh&theme=radical&include_all_commits=true&count_private=true)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaTbaileh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaTbaileh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
