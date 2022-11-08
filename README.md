@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://www.linkedin.com/in/osamatbaileh/?font=roboto&size=25&duration=2000&pause=2700&color=33B2EA&center=true&width=650&lines=Hey+There!;Welcome+to+my+profile;I'm+Osama+Tbaileh;Full-Stack+Software+Developer;With+Building+Engineering+Background;I'm+Ambitious%2C+Dedicated+Teamplayer+;Please%2C+Contact+Me+By+The+Links+Down+Below)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=2000&pause=2700&color=33B2EA&center=true&width=650&lines=Hey+There!;Welcome+to+my+profile;I'm+Osama+Tbaileh;Full-Stack+Software+Developer;With+Building+Engineering+Background;I'm+Ambitious%2C+Dedicated+Teamplayer+;Please%2C+Contact+Me+By+The+Links+Down+Below)](https://git.io/typing-svg)
 
 </div>
 
